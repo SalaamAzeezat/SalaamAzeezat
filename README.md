@@ -17,9 +17,9 @@ Feel free to explore—let’s connect and collaborate!
 # SQL
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
-|Grocery Sales Data Analysis | SQL Querying & Data Retrieval, Time-Series Analysis, Data Aggregation | This project analyses sales performance, customer behaviour, employee effectiveness and geographic insights using a structured Grocery Sales Database. The dataset spans four months and contains seven interconnected tables, providing comprehensive business insights. |
-| Analysing Student's Mental Health | SQL Querying, Data Cleaning & Transformation, Statistical Analysis | This project explores the mental health challenges faced by international students in Japan, focusing on factors such as social connectedness, acculturative stress, and depression levels. The study aims to validate prior research findings and assess whether the length of stay affects mental health outcomes. |
-| Analysing International Debt Statistics | SQL Querying & Data Exploration, Data Aggregation & Ranking | This project analyses global debt patterns, focusing on developing countries and their financial obligations. The study aims to determine which countries have the highest debt burdens, lowest repayment rates, and overall economic reliance on external debt. |
+| 🛒Grocery Sales Data Analysis | SQL Querying & Data Retrieval, Time-Series Analysis, Data Aggregation | This project analyses sales performance, customer behaviour, employee effectiveness and geographic insights using a structured Grocery Sales Database. The dataset spans four months and contains seven interconnected tables, providing comprehensive business insights. |
+| 🧠Analysing Student's Mental Health | SQL Querying, Data Cleaning & Transformation, Statistical Analysis | This project explores the mental health challenges faced by international students in Japan, focusing on factors such as social connectedness, acculturative stress, and depression levels. The study aims to validate prior research findings and assess whether the length of stay affects mental health outcomes. |
+| 💰Analysing International Debt Statistics | SQL Querying & Data Exploration, Data Aggregation & Ranking | This project analyses global debt patterns, focusing on developing countries and their financial obligations. The study aims to determine which countries have the highest debt burdens, lowest repayment rates, and overall economic reliance on external debt. |
 ||||
 ***
 # Tableau
