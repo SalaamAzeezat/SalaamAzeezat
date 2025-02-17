@@ -8,11 +8,9 @@ Feel free to explore—let’s connect and collaborate!
 ## Table of Contents
 - SQL
 - Tableau
-- Excel
+- Advanced Excel
 - DBT
 - Python
-- UI/UX Design
-- Front-end Web Development
 
 # SQL
 | Project Link | Area of Analysis | Project Description |
