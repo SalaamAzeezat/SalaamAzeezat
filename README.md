@@ -6,8 +6,8 @@ This is where I document my journey in data, design, and web development, turnin
 Feel free to explore—let’s connect and collaborate!
 
 ## Table of Contents
-- SQL
-- Tableau
+- [SQL](#sql)
+- [Tableau](#tableau)
 - Advanced Excel
 - DBT
 - Python
