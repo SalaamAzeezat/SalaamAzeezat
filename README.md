@@ -22,7 +22,7 @@ Feel free to explore—let’s connect and collaborate!
 # Tableau
 | Project Link | Project Description | Dashboard |
 |---|---|---|
-| [Analysing Customer Churn for Databel Customers](https://github.com/SalaamAzeezat/Customer-Churn-Rate-Analysis/blob/main/README.md) | Data Cleaning & Preprocessing, Exploratory Data Analysis, Data Visualisation & Dashboarding  | This project investigates customer churn by analysing factors contributing to contract cancellations. The objective is to identify patterns, demographics, and business strategies that can help reduce customer attrition. |
+| [Customer Churn Rate Analysis](https://github.com/SalaamAzeezat/Customer-Churn-Rate-Analysis/blob/main/README.md) | Data Cleaning & Preprocessing, Exploratory Data Analysis, Data Visualisation & Dashboarding  | This project investigates customer churn by analysing factors contributing to contract cancellations. The objective is to identify patterns, demographics, and business strategies that can help reduce customer attrition. |
 | Grocery Sales Data Analysis | Data Cleaning & Preprocessing, Exploratory Data Analysis, Data Visualisation & Dashboarding | This project analyses and visualises sales performance, customer behaviour, employee effectiveness and geographic insights using a structured Grocery Sales Database. The dataset spans four months and contains seven interconnected tables, providing comprehensive business insights. |
 |||
 ***
