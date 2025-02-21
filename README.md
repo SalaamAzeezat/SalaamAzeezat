@@ -1,9 +1,9 @@
 # Salaam Azeezat's Portfolio
 👋Welcome to my GitHub! 🚀
 
-This is where I document my journey in data, design, and web development, turning curiosity into real-world projects. I’m passionate about data storytelling, user experiences, and automation, always looking for creative ways to solve problems. Each project here is a step in my learning and building journey.
+This is where I document my journey in data, design, and web development, turning curiosity into real-world projects. I’m passionate about data storytelling, user experiences, and automation, and I am always looking for creative ways to solve problems. Each project here is a step in my learning and building journey.
 
-Feel free to explore—let’s connect and collaborate!
+Feel free to explore. Let’s connect and collaborate!
 
 ## Table of Contents
 - [SQL](#sql)
